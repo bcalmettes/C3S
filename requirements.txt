@@ -2,4 +2,3 @@ cdsapi==0.5.1
 numpy==1.22.4
 xarray==0.18.2
 matplotlib==3.4.2
-Cartopy==0.18.0
