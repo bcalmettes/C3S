@@ -1,6 +1,7 @@
 cartopy
 cdsapi
 h5netcdf
+ipympl
 matplotlib
 netcdf4
 numpy
